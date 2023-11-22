@@ -1,0 +1,9 @@
+# SpaceEngineersJPTrasnlate
+SpaceEngineersを日本語化するためのフォルダ
+
+まず、steamのライブラリからspace engineers を右クリックして
+管理→ローカルファイルを閲覧でインストールされているフォルダを開く
+
+Steam\steamapps\common\SpaceEngineers ←多分こんな感じの場所
+そこにContentフォルダがあるので上書き保存したらいけるはず。
+2023年11月22日時点では動作した。
